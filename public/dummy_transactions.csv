@@ -1,0 +1,26 @@
+date,amount,type,description,merchant,categoryId,tags,recurring
+2023-10-01,15000,expense,房租,房東,housing,居住,TRUE
+2023-10-02,150,expense,午餐,麥當勞,food,餐飲,FALSE
+2023-10-03,50,expense,捷運,台北捷運,transport,交通,FALSE
+2023-10-04,1200,expense,衣服,Uniqlo,shopping,購物,FALSE
+2023-10-05,300,expense,掛號費,李醫師診所,health,醫療,FALSE
+2023-10-06,800,expense,電影與爆米花,威秀影城,entertainment,娛樂,FALSE
+2023-10-07,2000,expense,線上課程,Udemy,education,教育,FALSE
+2023-10-08,300,expense,Netflix,Netflix,subscription,訂閱服務,TRUE
+2023-10-09,800,expense,電費,台電,utilities,水電瓦斯,TRUE
+2023-10-10,100,expense,雜支,便利商店,other,其他,FALSE
+2023-10-11,200,expense,晚餐,鼎泰豐,food,餐飲,FALSE
+2023-10-25,30,expense,公車,台北客運,transport,交通,FALSE
+2023-10-13,500,expense,超市,全聯福利中心,shopping,購物,FALSE
+2023-10-14,100,expense,清潔用品,家樂福,housing,居住,FALSE
+2023-10-15,150,expense,維他命,屈臣氏,health,醫療,FALSE
+2023-10-16,1500,expense,KTV,錢櫃,entertainment,娛樂,FALSE
+2023-10-17,500,expense,購書,誠品書店,education,教育,FALSE
+2023-10-18,150,expense,Spotify,Spotify,subscription,訂閱服務,TRUE
+2023-10-19,300,expense,水費,自來水公司,utilities,水電瓦斯,TRUE
+2023-10-20,100,expense,早餐,美而美,food,餐飲,FALSE
+2023-10-21,1280,expense,定期票,悠遊卡公司,transport,交通,TRUE
+2023-10-22,3000,expense,3C周邊,三創生活,shopping,購物,FALSE
+2023-10-23,50,expense,手續費,中國信託,other,其他,FALSE
+2023-10-24,400,expense,聚餐,金色三麥,food,餐飲,FALSE
+2023-10-25,200,expense,遊戲課金,App Store,entertainment,娛樂,FALSE
